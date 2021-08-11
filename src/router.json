@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "path": "/",
+    "name": "My shop",
+    "icon": "shop.svg",
+    "active": "active"
+  },
+  {
+    "id": 1,
+    "path": "/orders",
+    "name": "Orders",
+    "icon": "order.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 2,
+    "path": "/boost_shop",
+    "name": "Events",
+    "icon": "boost.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 3,
+    "path": "/coupons",
+    "name": "Coupons",
+    "icon": "coupons.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 4,
+    "path": "/statistics",
+    "name": "Statistics",
+    "icon": "statistics.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 5,
+    "path": "/tutoriel",
+    "name": "Tutoriels",
+    "icon": "tutoriel.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 6,
+    "path": "/wallet",
+    "name": "Wallet/Payments",
+    "icon": "wallet.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 7,
+    "path": "/details",
+    "name": "Shop details",
+    "icon": "details.svg",
+    "active": "inactive"
+  },
+  {
+    "id": 8,
+    "path": "/notifications",
+    "name": "Notifications Preferences",
+    "icon": "notif.svg",
+    "active": "inactive"
+  }
+]
